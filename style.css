@@ -51,6 +51,8 @@ aside {
     float: left;
     background-color: lightgray;
     margin-top: 15px;
+    height: 555px;
+    overflow: auto;
 }
 
 .navigation {
@@ -80,6 +82,8 @@ aside {
 
 .main {
     margin-left: 290px;
+    height: 570px;
+    overflow: auto;
 }
 
 .main h2 {
